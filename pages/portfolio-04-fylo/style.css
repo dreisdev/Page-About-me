@@ -1,0 +1,279 @@
+.image-fylo-hero img {
+    position: relative;
+    width: 1110px;
+    height: 500px;
+    left: 165px;
+    top: 190px;
+
+}
+
+.project-description {
+    position: absolute;
+    width: 350px;
+    height: 400px;
+    left: 165px;
+    top: 854px;
+}
+
+.project-title h2 {
+    position: absolute;
+    height: 42px;
+    top: calc(50% - 42px/2 - 179px);
+
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 42px;
+
+    letter-spacing: -0.357143px;
+
+    color: #33323D;
+}
+
+.project-text h5 {
+    position: absolute;
+    height: 120px;
+    top: calc(50% - 120px/2 - 69px);
+
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+
+    color: #33323D;
+
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+.project-skills-1 h5 {
+    position: absolute;
+    height: 30px;
+    top: calc(50% - 30px/2 + 59px);
+
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+
+
+    color: #5FB4A2;
+}
+
+.project-skills-2 h5 {
+    position: absolute;
+    height: 30px;
+    top: calc(50% - 30px/2 + 105px);
+
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+
+    color: #5FB4A2;
+}
+
+.project-visit {
+    position: absolute;
+    left: 0%;
+    right: 49.14%;
+    top: 88%;
+    bottom: 0%;
+}
+
+.project-line-top {
+    position: absolute;
+    width: 350px;
+    height: 1px;
+    left: 165px;
+    top: 805px;
+
+    background: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+
+}
+
+.project-line-down {
+    position: absolute;
+    width: 350px;
+    height: 1px;
+    left: 165px;
+    top: 1302px;
+
+    background: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+
+}
+
+.project-resume-title h3 {
+    position: absolute;
+    width: 350px;
+    height: 42px;
+    left: 640px;
+    top: 805px;
+
+
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 42px;
+
+    letter-spacing: -0.285714px;
+
+    color: #33323D;
+
+}
+
+.project-resume h5 {
+    position: absolute;
+    width: 635px;
+    height: 180px;
+    left: 640px;
+    top: 875px;
+
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 30px;
+
+    color: #33323D;
+
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+.previews-resume-title h3 {
+    position: absolute;
+    width: 350px;
+    height: 42px;
+    left: 640px;
+    top: 1095px;
+
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 42px;
+
+    letter-spacing: -0.285714px;
+
+    color: #33323D;
+}
+
+.previews-1 img {
+    position: absolute;
+    width: 635px;
+    height: 400px;
+    left: 640px;
+    top: 1165px;
+}
+
+.previews-2 img {
+    position: absolute;
+    width: 635px;
+    height: 400px;
+    left: 640px;
+    top: 1597px;
+}
+
+.arrow-left {
+
+    position: absolute;
+    width: 8px;
+    height: 16px;
+    left: 165px;
+    top: 2119px;
+
+}
+
+.arrow-right {
+    position: absolute;
+    width: 8px;
+    height: 16px;
+    left: 1275px;
+    top: 2119px;
+
+}
+
+.project-previous h5 {
+    position: absolute;
+    height: 36px;
+    left: 205px;
+    top: 2094px;
+
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;
+
+    letter-spacing: -0.285714px;
+
+    color: #33323D;
+}
+
+.project-previous-description h5 {
+    position: absolute;
+    height: 30px;
+    left: 205px;
+    top: 2130px;
+
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+
+
+    color: #33323D;
+
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}
+
+.project-next h5 {
+    position: absolute;
+    height: 36px;
+    left: 1118.83px;
+    top: 2094px;
+
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;
+
+    text-align: right;
+    letter-spacing: -0.285714px;
+
+    color: #33323D;
+}
+
+.project-next-description h5 {
+    position: absolute;
+    height: 30px;
+    left: 1117px;
+    top: 2130px;
+
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+
+
+    text-align: right;
+
+    color: #33323D;
+
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}
