@@ -1,0 +1,272 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+.div-body {
+    width: 100vw;
+    height: 100vh;
+}
+
+.container {
+    position: relative;
+    width: 1440px;
+    height: 2622px;
+    background: #FAFAFA;
+
+}
+
+.header-home {
+    position: absolute;
+    width: 1111px;
+    height: 32px;
+    left: 165px;
+    top: 64px;
+}
+
+.home-li a {
+    text-decoration: none;
+
+    position: absolute;
+    height: 14px;
+    left: 74.89%;
+    top: calc(50% - 14px/2);
+
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    color: #33323D;
+
+}
+
+.portfolio-li a {
+    text-decoration: none;
+    position: absolute;
+    height: 14px;
+    left: 82.54%;
+    top: calc(50% - 14px/2);
+
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    color: #5FB4A2;
+}
+
+.contact-li {
+    position: absolute;
+    height: 14px;
+    left: 93.88%;
+    top: calc(50% - 14px/2);
+
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    color: #33323D;
+}
+
+.logo-header img {
+
+    width: 60.08px;
+    height: 32px;
+
+}
+
+.contact {
+    position: absolute;
+    width: 1110px;
+    height: 84px;
+    left: 165px;
+    top: 2308px;
+}
+
+.contact h2 {
+    position: absolute;
+    height: 84px;
+    left: 0%;
+    right: 67.03%;
+    top: calc(50% - 84px/2);
+
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 42px;
+
+
+    letter-spacing: -0.357143px;
+
+    color: #33323D;
+}
+
+.contact-button {
+    position: absolute;
+    width: 168px;
+    height: 48px;
+    left: 1113px;
+    top: 2326px;
+}
+
+.contact-button h5 {
+    position: absolute;
+    height: 14px;
+    left: 29.01%;
+    right: 29.01%;
+    top: calc(50% - 14px/2);
+
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    color: #33323D;
+}
+
+.links-line-top {
+
+    position: absolute;
+    width: 1110px;
+    height: 1px;
+    left: 165px;
+    top: 2061px;
+
+    background: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+
+}
+
+.links-line-dow {
+    position: absolute;
+    width: 1110px;
+    height: 1px;
+    left: 165px;
+    top: 2192px;
+
+    background: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+}
+
+footer {
+
+    position: absolute;
+    width: 1440px;
+    height: 80px;
+    top: 2542px;
+
+    background: #33323D;
+
+}
+
+.footer-home-li a {
+    text-decoration: none;
+    position: absolute;
+    height: 14px;
+    left: 274px;
+    top: 33px;
+
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.footer-portfolio-li a {
+    text-decoration: none;
+    position: absolute;
+    height: 14px;
+    left: 359px;
+    top: 33px;
+
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.footer-contact-li {
+    position: absolute;
+    height: 14px;
+    left: 485px;
+    top: 33px;
+
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.footer-light-logo img {
+
+    position: absolute;
+    width: 61px;
+    height: 32px;
+    left: 165px;
+    top: 24px;
+}
+
+.github {
+    position: absolute;
+    width: 25px;
+    height: 24px;
+    left: 1171px;
+    top: 28px;
+}
+
+.twitter {
+    position: absolute;
+    width: 24px;
+    height: 19.5px;
+    left: 1211px;
+    top: 30.25px;
+}
+
+.linkedin {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1251px;
+    top: 28px;
+
+}
+
+a :visited {
+
+    color: #33323D;
+
+}
