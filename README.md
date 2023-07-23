@@ -7,7 +7,11 @@ Projeto do Curso Cubos Academy - Criado no Módulo 2
 
 O objetivo deste projeto foi replicar o website encontrado no figma [``Desafio front academy 1.fig``](https://www.figma.com/file/79R31SMg3mwnd9AWRa3nIF/Desafio-front-academy-md02?node-id=0%3A1&t=LPHOqT9G1QSvmHjY-1).
 
-**TECNOLOGIAS UTILIZADAS**: HTML e CSS.
+**TECNOLOGIAS UTILIZADAS**:
+<div style="display: inline_block"><br/>
+   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+   </div><br/>
 
 
 ### Home
